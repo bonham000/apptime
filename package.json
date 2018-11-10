@@ -1,8 +1,9 @@
 {
   "name": "apptime-notebook",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Simple app using new React hooks feature",
+  "keywords": ["react", "hooks"],
+  "license": "MIT",
   "main": "src/index.js",
   "dependencies": {
     "glamor": "2.20.40",

@@ -1,11 +1,15 @@
 
-# Week 1: Data Structures
+* Week 1: Data Structures
   - Lists and Dictionaries
-# Week 2: Functions
+
+* Week 2: Functions
   - Using functions to solve problems
-# Week 3: Build a React Note-taking App Part 1
+
+* Week 3: Build a React Note-taking App Part 1
   - Project setup and basics
-# Week 4: Build a React Note-taking App Part 2
+
+* Week 4: Build a React Note-taking App Part 2
   - Build a simple note-taking app!
-# Week 5: Bonus Week
-  - Extra app functionality
+
+* Week 5: Graduation ceremony!
+  - Add bonus app functionality
