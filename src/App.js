@@ -13,7 +13,7 @@ import {
   ButtonContainer
 } from "./Components";
 
-/* Key to ientify notes in local storage: */
+/* Key to identify notes in local storage: */
 const APP_STORAGE_KEY = "APP_NOTES";
 
 /**
